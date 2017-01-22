@@ -10,7 +10,7 @@ namespace CalculatorSample
 
         public int Add(int first, int second)
         {
-            throw new NotImplementedException();
+            return first + second;
         }
     }
 }
