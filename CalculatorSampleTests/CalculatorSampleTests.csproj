@@ -53,11 +53,21 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="MyCalculator.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyCalculator.feature</DependentUpon>
+    </Compile>
+    <Compile Include="MyCalculatorSteps.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
       <SubType>Designer</SubType>
+    </None>
+    <None Include="MyCalculator.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>MyCalculator.feature.cs</LastGenOutput>
     </None>
     <None Include="packages.config" />
   </ItemGroup>

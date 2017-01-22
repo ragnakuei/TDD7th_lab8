@@ -7,3 +7,14 @@ C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestW
 C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.csprojResolveAssemblyReference.cache
 C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.dll
 C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.pdb
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\bin\Debug\CalculatorSampleTests.dll.config
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\bin\Debug\CalculatorSampleTests.dll
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\bin\Debug\CalculatorSampleTests.pdb
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\bin\Debug\CalculatorSample.dll
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\bin\Debug\TechTalk.SpecFlow.dll
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\bin\Debug\CalculatorSample.pdb
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.csprojResolveAssemblyReference.cache
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.dll
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.pdb

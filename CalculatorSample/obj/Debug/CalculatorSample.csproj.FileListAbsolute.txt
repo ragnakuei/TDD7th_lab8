@@ -3,3 +3,8 @@ C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestW
 C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSample\obj\Debug\CalculatorSample.csprojResolveAssemblyReference.cache
 C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSample\obj\Debug\CalculatorSample.dll
 C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSample\obj\Debug\CalculatorSample.pdb
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSample\bin\Debug\CalculatorSample.dll
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSample\bin\Debug\CalculatorSample.pdb
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSample\obj\Debug\CalculatorSample.csprojResolveAssemblyReference.cache
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSample\obj\Debug\CalculatorSample.dll
+D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSample\obj\Debug\CalculatorSample.pdb
