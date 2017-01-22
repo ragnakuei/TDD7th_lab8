@@ -6,6 +6,7 @@ using TechTalk.SpecFlow;
 namespace CalculatorSampleTests
 {
     [Binding]
+    [Scope(Feature = "MyCalculator")]
     public class MyCalculatorSteps
     {
         private MyCalculator target;
