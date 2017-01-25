@@ -18,3 +18,14 @@ D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\bin\Debug\zh-Hant\Microsoft.
 D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.csprojResolveAssemblyReference.cache
 D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.dll
 D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.pdb
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSampleTests\bin\Debug\CalculatorSampleTests.dll.config
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSampleTests\bin\Debug\CalculatorSampleTests.dll
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSampleTests\bin\Debug\CalculatorSampleTests.pdb
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSampleTests\bin\Debug\CalculatorSample.dll
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSampleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSampleTests\bin\Debug\TechTalk.SpecFlow.dll
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSampleTests\bin\Debug\CalculatorSample.pdb
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSampleTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.csprojResolveAssemblyReference.cache
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.dll
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.pdb

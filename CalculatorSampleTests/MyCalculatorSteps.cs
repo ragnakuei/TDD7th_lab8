@@ -17,13 +17,13 @@ namespace CalculatorSampleTests
             this.target = new MyCalculator();
         }
 
-        [Given(@"在第一個輸入項輸入 (\d*|-\d*|\d*\.\d*)")]
+        [Given(@"在第一個輸入項輸入 (.*)")]
         public void Given在第一個輸入項輸入(decimal first)
         {
             ScenarioContext.Current.Set<decimal>(first, "first");
         }
 
-        [Given(@"在第二個輸入項輸入 (\d*|-\d*|\d*\.\d*)")]
+        [Given(@"在第二個輸入項輸入 (.*)")]
         public void Given在第二個輸入項輸入(decimal second)
         {
             ScenarioContext.Current.Set<decimal>(second, "second");
@@ -38,7 +38,7 @@ namespace CalculatorSampleTests
             ScenarioContext.Current.Set<decimal>(actual, "actual");
         }
 
-        [Then(@"螢幕上的結果應為 (\d*|-\d*|\d*\.\d*)")]
+        [Then(@"螢幕上的結果應為 (.*)")]
         public void Then螢幕上的結果應為(decimal expected)
         {
             var actual = ScenarioContext.Current.Get<decimal>("actual");

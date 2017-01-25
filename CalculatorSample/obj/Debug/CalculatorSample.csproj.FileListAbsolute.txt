@@ -8,3 +8,8 @@ D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSample\bin\Debug\CalculatorSample.pdb
 D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSample\obj\Debug\CalculatorSample.csprojResolveAssemblyReference.cache
 D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSample\obj\Debug\CalculatorSample.dll
 D:\Kuei\BitBucket\tdd7th_lab8\CalculatorSample\obj\Debug\CalculatorSample.pdb
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSample\bin\Debug\CalculatorSample.dll
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSample\bin\Debug\CalculatorSample.pdb
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSample\obj\Debug\CalculatorSample.csprojResolveAssemblyReference.cache
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSample\obj\Debug\CalculatorSample.dll
+D:\Projects\BitBucket\TDD7th_lab8\CalculatorSample\obj\Debug\CalculatorSample.pdb
